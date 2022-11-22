@@ -1,2 +1,2 @@
-def simpleadd(x,y):
-    return x+y
+def simpleadd(x,y,z):
+    return x+y+z

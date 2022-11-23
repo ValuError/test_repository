@@ -1,3 +1,3 @@
-def simpleadd(x,y,z):
-    return x+y+z
+def simpleadd(x,y,z, k):
+    return x+y+z+k
     #Checked out
